@@ -1,0 +1,24 @@
+[{
+  language_id:1,
+  created_user:'created_user',
+  modified_user:'modified_user',
+  language:'English',
+  sprache:'sprache',
+  application_language:'application_language',
+  library_code:'library_code',
+  obsolete_status:false,
+  modified_time:null,
+  creation_time:null
+},
+{
+  language_id:1,
+  created_user:'created_user',
+  modified_user:'modified_user',
+  language:'Hindi',
+  sprache:'sprache',
+  application_language:'application_language',
+  library_code:'library_code',
+  obsolete_status:false,
+  modified_time:null,
+  creation_time:null
+}]
